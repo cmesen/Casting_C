@@ -10,7 +10,7 @@ int main (){
  
  c = a/b;
 
- printf("prueba casting");
+ printf("prueba casting en C!\n");
 
  printf("Sin casting: %i entre %i = %f\n",a,b,c);
 
