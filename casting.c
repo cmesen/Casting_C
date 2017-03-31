@@ -10,11 +10,12 @@ int main (){
  
  c = a/b;
 
- printf("prueba");
+ printf("prueba casting");
 
  printf("Sin casting: %i entre %i = %f\n",a,b,c);
 
  c = (float)a/b;
 
  printf("Con casting: %i entre %i = %f\n",a,b,c);
+
 }
