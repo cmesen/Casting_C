@@ -1,5 +1,6 @@
 
- /*prueba de casting en c*/
+ /*prueba de casting en c
+   actualización */
 
  #include <stdio.h>
 
